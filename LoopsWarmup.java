@@ -15,6 +15,7 @@ public class LoopsWarmup {
 		}
 		System.out.println("The summation of " + n + " is " + sum);
 		return sum;
+		
 	}
 
 	// public static int exponent(int x, int n) {
